@@ -28,7 +28,8 @@ def SendToAllPlayers(message):
             user[1].send(bytes(message,'utf-8'))
 
 def server_program():
-    host = '192.168.56.113'
+    host = '192.168.56.113o
+'
     port = 8082  # initiate port no above 1024
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.bind((host, port))
