@@ -59,7 +59,7 @@ HANGMANPICS = ['''
     ======= ''']
 
 def client_program():
-    host = '192.168.56.101'  # as both code is running on same pc
+    host = '192.168.56.113'  # as both code is running on same pc
     port = 8082  # socket server port number
 
     clientsocket = socket.socket()  # instantiate
