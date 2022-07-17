@@ -14,3 +14,9 @@ RULES:
 4. The game will terminate after 7 wrong guesses.
 5. The game also stop after one player win the game by guessing the word correctly.
 
+OUTPUT
+Client:
+
+![photo_2022-07-17_13-19-48](https://user-images.githubusercontent.com/103896451/179386751-72c5dce9-a529-49f9-b782-7614a5e5bb50.jpg)
+![photo_2022-07-17_13-19-41](https://user-images.githubusercontent.com/103896451/179386922-d60adaac-f0d0-4c31-926f-d1338ca831d8.jpg)
+![photo_2022-07-17_13-19-31](https://user-images.githubusercontent.com/103896451/179386959-1f24de47-912a-469b-896c-bf5582937e4f.jpg)
